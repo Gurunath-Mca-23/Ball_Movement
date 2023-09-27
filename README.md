@@ -9,4 +9,4 @@ This HTML document features a red ball that moves diagonally across the screen. 
 To Run the Project: simply download this project and open in Visual Studio Code (Or) Simply drag the index file to the Browser
 
 Future Improvements:
-The Project is enhanced by adding more styles and animation to the Pacman
+The Project is enhanced by adding more styles and animations
