@@ -1,4 +1,4 @@
-![image](https://github.com/Gurunath-Mca-23/Random_Ball_Movement/assets/139735814/973fac30-6554-4f00-b95a-5179b434564d)# Random_Ball_Movement
+Random_Ball_Movement
 
 link: https://gurunath-mca-23.github.io/Random_Ball_Movement/
 
