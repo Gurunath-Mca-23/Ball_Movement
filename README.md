@@ -8,6 +8,7 @@ This HTML document features a red ball that moves diagonally across the screen. 
 
 # HowTo Run the Project:
 Step 1: Save the HTML file with a html extension
+
 Step 2: Install the Live Server extension in Visual Studio Code, then click the "Go Live" button at the bottom right comer of the VSCode window to open a new browser window displaying the ball-moving animation.
 
 # Future Improvements:
