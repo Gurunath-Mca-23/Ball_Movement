@@ -1,4 +1,4 @@
-# Random_Ball_Movement
+# Simulation Ball Movement
 
 link: https://gurunath-mca-23.github.io/Random_Ball_Movement/
 
